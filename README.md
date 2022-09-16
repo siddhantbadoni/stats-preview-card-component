@@ -2,5 +2,8 @@
 
 ### Screenshot
 
-![](./design/desktop-design.jpg)
+![desktop_preview](/screenshot/ScreenShot%20Tool%20-20220916140735%20(1).png)
 
+### website
+
+https://siddhantbadoni.github.io/stats-preview-card-component/
